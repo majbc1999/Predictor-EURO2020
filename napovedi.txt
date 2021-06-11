@@ -1,0 +1,56 @@
+TURČIJA : ITALIJA
+Najboljša napoved je: Turčija 0:1 Italija. Pričakovane točke = 3.25
+    Dejanski rezultat
+
+    Prva ekipa bonus: Italija
+    Prvi strelec bonus: Immobile
+
+
+WALES : ŠVICA
+    Najboljša napoved je: Wales 0:0 Švica. Pričakovane točke = 2.36
+    Dejanski rezultat
+
+    Prva ekipa bonus: Švica
+    Prvi strelec bonus: 0:0
+
+
+DANSKA : FINSKA
+    Najboljša napoved je: Danska 1:0 Finska. Pričakovane točke = 2.94
+    Dejanski rezultat
+
+    Prva ekipa bonus: Danska
+    Prvi strelec bonus: Eriksen
+
+
+BELGIJA : RUSIJA
+Najboljša napoved je: Belgija 1:0 Rusija. Pričakovane točke = 2.76
+    Dejanski rezultat
+
+    Prva ekipa bonus: Belgija
+    Prvi strelec bonus: Lukaku
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+
+EKIPA1 : EKIPA2
+    Najboljša napoved
+    Dejanski rezultat
+
+    Prva ekipa bonus
+    Prvi strelec bonus
+
+
+EKIPA1 : EKIPA2
+    Najboljša napoved
+    Dejanski rezultat
+
+    Prva ekipa bonus
+    Prvi strelec bonus
+
+
+EKIPA1 : EKIPA2
+    Najboljša napoved
+    Dejanski rezultat
+
+    Prva ekipa bonus
+    Prvi strelec bonus
