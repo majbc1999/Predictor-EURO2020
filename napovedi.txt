@@ -1,17 +1,17 @@
 TURČIJA : ITALIJA
-Najboljša napoved je: Turčija 0:1 Italija. Pričakovane točke = 3.25
-    Dejanski rezultat
+Najboljša napoved je: Turčija 0:1 Italija. Pričakovane točke = 3.17
+    Dejanski rezultat: 0:3, Točke = 4
 
-    Prva ekipa bonus: Italija
-    Prvi strelec bonus: Immobile
+    Prva ekipa bonus: Italija (da) +1
+    Prvi strelec bonus: Immobile (ne) +0
 
 
 WALES : ŠVICA
-    Najboljša napoved je: Wales 0:0 Švica. Pričakovane točke = 2.36
+    Najboljša napoved je: Wales 0:2 Švica. Pričakovane točke = 2.41
     Dejanski rezultat
 
     Prva ekipa bonus: Švica
-    Prvi strelec bonus: 0:0
+    Prvi strelec bonus: Seferović
 
 
 DANSKA : FINSKA
