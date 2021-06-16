@@ -62,34 +62,34 @@ NIZOZEMSKA : UKRAJINA
 
 POLJSKA : SLOVAŠKA
     Najboljša napoved je: Poljska 1:0 Slovaška. Pričakovane točke = 2.41
-    Dejanski rezultat:
+    Dejanski rezultat: 1:2, Točke = 0
 
-    Prva ekipa bonus: Poljska
-    Prvi strelec bonus: Lewandowski
+    Prva ekipa bonus: Poljska +0
+    Prvi strelec bonus: Lewandowski +0
 
 
 ŠPANIJA : ŠVEDSKA
     Najboljša napoved je: Španija 1:0 Švedska. Pričakovane točke = 3.22
-    Dejanski rezultat
+    Dejanski rezultat: 0:0, Točke = 1
 
-    Prva ekipa bonus: Španija
-    Prvi strelec bonus: Morata
+    Prva ekipa bonus: Španija +0
+    Prvi strelec bonus: Morata +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 MADŽARSKA : PORTUGALSKA
     Najboljša napoved je: Madžarska 0:1 Portugalska. Pričakovane točke = 3.10 
-    Dejanski rezultat: 
+    Dejanski rezultat: 0:3, Točke = 4
 
-    Prva ekipa bonus: Portugalska
-    Prvi strelec bonus: Ronaldo
+    Prva ekipa bonus: Portugalska +1
+    Prvi strelec bonus: Ronaldo +0
 
 
 FRANCIJA : NEMČIJA
     Najboljša napoved je: Francija 0:0 Nemčija. Pričakovane točke = 2.12
-    Dejanski rezultat:
+    Dejanski rezultat: 1:0, Točke = 1
 
-    Prva ekipa bonus: Francija
-    Prvi strelec bonus: Mbappe
+    Prva ekipa bonus: Francija +1
+    Prvi strelec bonus: Mbappe +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
