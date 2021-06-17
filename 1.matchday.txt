@@ -60,6 +60,7 @@ NIZOZEMSKA : UKRAJINA
 ŠKOTSKA : ČESKA 
     Pozabil napisati napoved
 
+
 POLJSKA : SLOVAŠKA
     Najboljša napoved je: Poljska 1:0 Slovaška. Pričakovane točke = 2.41
     Dejanski rezultat: 1:2, Točke = 0
