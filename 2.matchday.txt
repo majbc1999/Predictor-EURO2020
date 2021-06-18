@@ -25,26 +25,51 @@ ITALIJA : ŠVICA
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 UKRAJINA : MAKEDONIJA
-    Najboljša napoved je: Ukraina 1:0 Makedonija. Pričakovane točke = 2.5
-    Dejanski rezultat:
+    Najboljša napoved je: Ukrajina 1:0 Makedonija. Pričakovane točke = 2.5
+    Dejanski rezultat: 2:1, Točke = 4
 
-    Prva ekipa bonus: Ukraina
-    Prvi strelec bonus: Yaremchuk 
+    Prva ekipa bonus: Ukraina +1
+    Prvi strelec bonus: Yaremchuk +0 
 
 
 DANSKA : BELGIJA
     Najboljša napoved je: Danska 0:1 Belgija. Pričakovane točke = 2.61
-    Dejanski rezultat:
+    Dejanski rezultat: 1:2, Točke = 4
 
-    Prva ekipa bonus: Belgija 
-    Prvi strelec bonus: Lukaku
+    Prva ekipa bonus: Belgija +0
+    Prvi strelec bonus: Lukaku +0
 
 
 NIZOZEMSKA : AVSTRIJA
     Najboljša napoved je: Nizozemska 1:0 Avstrija. Pričakovane točke = 2.75
+    Dejanski rezultat: 2:0, Točke = 4
+
+    Prva ekipa bonus: Nizozemska +1
+    Prvi strelec bonus: Depay +2
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+ŠVEDSKA : SLOVAŠKA
+    Najboljša napoved je: Švedska 1:0 Slovaška. Pričakovane točke = 2.39
     Dejanski rezultat: 
 
-    Prva ekipa bonus: Nizozemska
-    Prvi strelec bonus: Depay
+    Prva ekipa bonus: Švedska 
+    Prvi strelec bonus: Isak 
+
+
+HRVAŠKA : ČEŠKA
+    Najboljša napoved je: Hrvaška 1:0 Češka. Pričakovane točke = 2.14
+    Dejanski rezultat:
+
+    Prva ekipa bonus: Hrvaška
+    Prvi strelec bonus: Kramarić
+
+
+ANGLIJA : ŠKOTSKA
+    Najboljša napoved je: Anglija 1:0 Škotska. Pričakovane točke = 3.47 * 2 = 6.94
+    Dejanski rezultat:
+
+    Prva ekipa bonus: Anglija
+    Prvi strelec bonus: Kane
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
