@@ -1,0 +1,33 @@
+
+FINSKA : RUSIJA
+    Najboljša napoved je: Finska 0:1 Rusija. Pričakovane točke = 2.67
+    Dejanski rezultat: 0:1, Točke = 6
+
+    Prva ekipa bonus: Rusija +1
+    Prvi strelec bonus: Dzyuba +0 
+
+
+TURČIJA : WALES
+    Najboljša napoved je: Turčija 0:0 Wales. Pričakovane točke = 2.16
+    Dejanski rezultat: 0:2, Točke = 1
+
+    Prva ekipa bonus: Turčija +0
+    Prvi strelec bonus: Bale +0
+
+
+ITALIJA : ŠVICA
+    Najboljša napoved je: Italija 1:0 Švica. Pričakovane točke = 2.97
+    Dejanski rezultat: 3:0, Točke = 4
+
+    Prva ekipa bonus: Italija +1
+    Prvi strelec bonus: Immobile +0
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+
+Pričakovane točke: 35.96
+Dobljene točke: 37
+Bonusi za prve ekipe: 6 
+Bonusi za strelce: 6 
+
+Vse točke: 49 

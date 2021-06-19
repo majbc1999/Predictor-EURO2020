@@ -76,32 +76,32 @@ ANGLIJA : ŠKOTSKA
 
 MADŽARSKA : FRANCIJA
     Najboljša napoved je: Madžarska 0:1 Francija. Pričakovane točke = 3.51
-    Dejanski rezultat:
+    Dejanski rezultat: 1:1, Točke = 1
 
-    Prva ekipa bonus: Francija
-    Prvi strelec bonus: Mbappe
+    Prva ekipa bonus: Francija +0
+    Prvi strelec bonus: Mbappe +0
 
 
 PORTUGALSKA : NEMČIJA
     Najboljša napoved je: Portugalska 0:1 Nemčija. Pričakovane točke = 2.33
-    Dejanski rezultat: 
+    Dejanski rezultat: 2:4, Točke = 3
 
-    Prva ekipa bonus: Nemčija
-    Prvi strelec bonus: Ronaldo
+    Prva ekipa bonus: Nemčija +0
+    Prvi strelec bonus: Ronaldo +2
 
 
 ŠPANIJA : POLJSKA
     Najboljša napoved je: Španija 1:0 Poljska. Pričakovane točke = 2.99
-    Dejanski rezultat: 
+    Dejanski rezultat: 1:1, Točke = 1
 
-    Prva ekipa bonus: Španija
-    Prvi strelec bonus: Morata
+    Prva ekipa bonus: Španija +1
+    Prvi strelec bonus: Morata +2
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 Pričakovane točke: 35.96
-Dobljene točke: 32 (brez zadnjih 3 tekem)
-Bonusi za prve ekipe: 5 (brez zadnjih 3 tekem)
-Bonusi za strelce: 2 (brez zadnjih 3 tekem)
+Dobljene točke: 37
+Bonusi za prve ekipe: 6 
+Bonusi za strelce: 6 
 
-Vse točke: 39 (brez zadnjih 3 tekem)
+Vse točke: 49 
