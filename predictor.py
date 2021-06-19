@@ -7,39 +7,38 @@
 
 # Tabela kvot
 kvote = {
-    "0:0": 11,
-    "0:1": 21,
-    "0:2": 51,
-    "0:3": 151,
-
     "1:0": 6,
-    "1:1": 12,
-    "1:2": 34,
-    "1:3": 101,
-
-    "2:0": 6,
-    "2:1": 10,
-    "2:2": 34,
-    "2:3": 101,
-
-    "3:0": 8,
+    "2:0": 6.5,
+    "2:1": 9.5,
+    "3:0": 9.5,
     "3:1": 15,
-    "3:2": 41,
-    "3:3": 126,
+    "3:2": 34,
+
+    "0:0": 11,
+    "1:1": 11,
+    "2:2": 29,
+    "3:3": 101,
+
+    "0:1": 19,
+    "0:2": 41,
+    "1:2": 26,
+    "0:3": 126,
+    "1:3": 67,
+    "2:3": 67,
 }
 
 
 # Popularni rezulati, ki ne prinašajo dodatnih dveh točk
 popularni_rezultati = [
     "2:1",
-    "2:0",
-    "3:0",
-    "3:1"
+    "1:0",
+    "1:1",
+    "2:0"
 ]
 
 
 # Prva in druga ekipa (pazi vrstni red glede na kvote)
-ekipe = ["Anglija", "Škotska"]
+ekipe = ["Španija", "Poljska"]
 
 
 
@@ -60,8 +59,8 @@ def simulacija(verjetnosti, popularni, ekipe):
     najboljsa_napoved = "0:0"
     upanje1 = 0
     upanje_trenutno = 0
-    for i in range(4):
-        for j in range(4):
+    for i in range(6):
+        for j in range(6):
             rezultat = str(i) + ":" + str(j)
             upanje_trenutno = upanje(rezultat, verjetnosti, popularni)
             if upanje_trenutno >= upanje1:
@@ -78,15 +77,18 @@ def simulacija(verjetnosti, popularni, ekipe):
 def verjetnosti(kvote):
     vsota_kvot = 0
     slovar = {}
-    for i in range(4):
-        for j in range(4):
+    for i in range(6):
+        for j in range(6):
             niz = str(i) + ":" + str(j)
+            if niz not in kvote.keys():
+                continue
             if kvote[niz] != 0:
                 vsota_kvot += (1 / kvote[niz])
-    for i in range(4):
-        for j in range(4):
+    for i in range(6):
+        for j in range(6):
             niz = str(i) + ":" + str(j)
-            if kvote[niz] == 0: slovar[niz] = 0
+            if (niz not in kvote.keys()): slovar[niz] = 0
+            elif kvote[niz] == 0: slovar[niz] = 0
             else:
                 slovar[niz] = 1 / (kvote[niz] * vsota_kvot)
     return slovar
@@ -96,8 +98,8 @@ def verjetnosti(kvote):
 ### UPANJE REZULTATA ###
 def upanje(rezultat, verjetnosti, popularni):
     upanje1 = 0
-    for i in range(4):
-        for j in range(4):
+    for i in range(6):
+        for j in range(6):
             napoved = str(i) + ":" + str(j)
             if verjetnosti[napoved] > 0:
                 upanje1 += verjetnosti[napoved] * tocke(rezultat, napoved, popularni)
