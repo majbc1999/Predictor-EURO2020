@@ -25,7 +25,7 @@ ITALIJA : ŠVICA
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 UKRAJINA : MAKEDONIJA
-    Najboljša napoved je: Ukrajina 1:0 Makedonija. Pričakovane točke = 2.5
+    Najboljša napoved je: Ukrajina 1:0 Makedonija. Pričakovane točke = 2.50
     Dejanski rezultat: 2:1, Točke = 4
 
     Prva ekipa bonus: Ukraina +1
@@ -51,25 +51,57 @@ NIZOZEMSKA : AVSTRIJA
 
 ŠVEDSKA : SLOVAŠKA
     Najboljša napoved je: Švedska 1:0 Slovaška. Pričakovane točke = 2.39
-    Dejanski rezultat: 
+    Dejanski rezultat: 1:0, Točke = 6
 
-    Prva ekipa bonus: Švedska 
-    Prvi strelec bonus: Isak 
+    Prva ekipa bonus: Švedska +1
+    Prvi strelec bonus: Isak +0
 
 
 HRVAŠKA : ČEŠKA
     Najboljša napoved je: Hrvaška 1:0 Češka. Pričakovane točke = 2.14
-    Dejanski rezultat:
+    Dejanski rezultat: 1:1, Točke = 1
 
-    Prva ekipa bonus: Hrvaška
-    Prvi strelec bonus: Kramarić
+    Prva ekipa bonus: Hrvaška +0
+    Prvi strelec bonus: Kramarić +0
 
 
 ANGLIJA : ŠKOTSKA
     Najboljša napoved je: Anglija 1:0 Škotska. Pričakovane točke = 3.47 * 2 = 6.94
-    Dejanski rezultat:
+    Dejanski rezultat: 0:0, Točke = 1 * 2 = 2
 
-    Prva ekipa bonus: Anglija
-    Prvi strelec bonus: Kane
+    Prva ekipa bonus: Anglija +0
+    Prvi strelec bonus: Kane +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+MADŽARSKA : FRANCIJA
+    Najboljša napoved je: Madžarska 0:1 Francija. Pričakovane točke = 3.51
+    Dejanski rezultat:
+
+    Prva ekipa bonus: Francija
+    Prvi strelec bonus: Mbappe
+
+
+PORTUGALSKA : NEMČIJA
+    Najboljša napoved je: Portugalska 0:1 Nemčija. Pričakovane točke = 2.33
+    Dejanski rezultat: 
+
+    Prva ekipa bonus: Nemčija
+    Prvi strelec bonus: Ronaldo
+
+
+ŠPANIJA : POLJSKA
+    Najboljša napoved je: Španija 1:0 Poljska. Pričakovane točke = 2.99
+    Dejanski rezultat: 
+
+    Prva ekipa bonus: Španija
+    Prvi strelec bonus: Morata
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Pričakovane točke: 35.96
+Dobljene točke: 32 (brez zadnjih 3 tekem)
+Bonusi za prve ekipe: 5 (brez zadnjih 3 tekem)
+Bonusi za strelce: 2 (brez zadnjih 3 tekem)
+
+Vse točke: 39 (brez zadnjih 3 tekem)

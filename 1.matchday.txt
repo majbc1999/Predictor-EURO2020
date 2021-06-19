@@ -63,7 +63,7 @@ NIZOZEMSKA : UKRAJINA
 
 POLJSKA : SLOVAŠKA
     Najboljša napoved je: Poljska 1:0 Slovaška. Pričakovane točke = 2.41
-    Dejanski rezultat: 1:2, Točke = 0
+    Dejanski rezultat: 1:2, Točke = 1
 
     Prva ekipa bonus: Poljska +0
     Prvi strelec bonus: Lewandowski +0
@@ -94,3 +94,10 @@ FRANCIJA : NEMČIJA
     Prvi strelec bonus: Mbappe +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Pričakovane točke: 33.92
+Dobljene točke: 38
+Bonusi za prve ekipe: 9
+Bonusi za strelce: 2
+
+Vse točke: 49
