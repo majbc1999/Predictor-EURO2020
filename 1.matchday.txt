@@ -1,9 +1,10 @@
+
 TURČIJA : ITALIJA
 Najboljša napoved je: Turčija 0:1 Italija. Pričakovane točke = 3.17
     Dejanski rezultat: 0:3, Točke = 4
 
-    Prva ekipa bonus: Italija (da) +1
-    Prvi strelec bonus: Immobile (ne) +0
+    Prva ekipa bonus: Italija +1
+    Prvi strelec bonus: Immobile +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
