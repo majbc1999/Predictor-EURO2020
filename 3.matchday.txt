@@ -1,21 +1,20 @@
 
 ITALIJA : WALES
     Najboljša napoved je: Italija 1:0 Wales. Pričakovane točke = 3.15
-    Dejanski rezultat:
+    Dejanski rezultat: 1:0, Točke = 8
 
-    Prva ekipa bonus: Italija
-    Prvi strelec bonus: Immobile
+    Prva ekipa bonus: Italija +1
+    Prvi strelec bonus: Belotti +0
 
 
 ŠVICA : TURČIJA
     Najboljša napoved je: Švica 1:0 Turčija. Pričakovane točke = 2.49
-    Dejanski rezultat:
+    Dejanski rezultat: 3:1, Točke = 3
 
-    Prva ekipa bonus: Švica
-    Prvi strelec bonus: Seferović
+    Prva ekipa bonus: Švica +1
+    Prvi strelec bonus: Seferović +2
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
-
 
 UKRAJINA : AVSTRIJA
     Najboljša napoved je: Ukrajina 0:0 Avstrija. Pričakovane točke = 3.13
@@ -31,6 +30,22 @@ MAKEDONIJA : NIZOZEMSKA
 
     Prva ekipa bonus: Nizozemska
     Prvi strelec bonus: Depay
+
+
+FINSKA : BELGIJA
+    Najboljša napoved je: Finska 0:1 Belgija. Pričakovane točke = 3.35
+    Dejanski rezultat:
+
+    Prva ekipa bonus: Belgija
+    Prvi strelec bonus: Lukaku
+
+
+RUSIJA : DANSKA
+    Najboljša napoved je: Rusija 0:2 Danska. Pričakovane točke = 2.56
+    Dejanski rezultat:
+
+    Prva ekipa bonus: Danska
+    Prvi strelec bonus: Dzyuba
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
