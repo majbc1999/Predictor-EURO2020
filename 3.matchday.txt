@@ -25,7 +25,7 @@ UKRAJINA : AVSTRIJA
 
 
 MAKEDONIJA : NIZOZEMSKA
-    Najboljša napoved je: Makedonija 0:1 Nizozemska. Pričakovane točke = 3.15 * 2 = 3.30
+    Najboljša napoved je: Makedonija 0:1 Nizozemska. Pričakovane točke = 3.15 * 2 = 6.30
     Dejanski rezultat: 0:2, Točke = 4 * 2 = 8
 
     Prva ekipa bonus: Nizozemska +1 * 2 = +2
@@ -34,7 +34,7 @@ MAKEDONIJA : NIZOZEMSKA
 
 FINSKA : BELGIJA
     Najboljša napoved je: Finska 0:1 Belgija. Pričakovane točke = 3.35
-    Dejanski rezultat: 0:2, Točke = 5
+    Dejanski rezultat: 0:2, Točke = 4
 
     Prva ekipa bonus: Belgija +1
     Prvi strelec bonus: Lukaku +0
@@ -51,56 +51,57 @@ RUSIJA : DANSKA
 
 ČEŠKA : ANGLIJA
     Najboljša napoved je: Češka 0:1 Anglija. Pričakovane točke = 2.80
-    Dejanski rezultat:
+    Dejanski rezultat: 0:1, Točke = 6
 
-    Prva ekipa bonus: Anglija
-    Prvi strelec bonus: Kane
+    Prva ekipa bonus: Anglija +1
+    Prvi strelec bonus: Kane +0
 
 
 HRVAŠKA : ŠKOTSKA
     Najboljša napoved je: Hrvaška 1:0 Škotska. Pričakovane točke = 2.10
-    Dejanski rezultat:
+    Dejanski rezultat: 3:1, Točke = 3
 
-    Prva ekipa bonus: Hrvaška
-    Prvi strelec bonus: Kramarić
+    Prva ekipa bonus: Hrvaška +1
+    Prvi strelec bonus: Adams +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 ŠVEDSKA : POLJSKA
-    Najboljša napoved je: 
-    Dejanski rezultat:
+    Najboljša napoved je: Švedska 1:0 Poljska. Pričakovane točke = 2.15
+    Dejanski rezultat: 3:2, Točke = 4
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Poljska +0
+    Prvi strelec bonus: Lewandowski +0
 
 
 SLOVAŠKA : ŠPANIJA
-    Najboljša napoved je: 
-    Dejanski rezultat:
+    Najboljša napoved je: Slovaška 0:2 Španija. Pričakovane točke = 3.29
+    Dejanski rezultat: 0:5, Točke = 4
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Španija +1
+    Prvi strelec bonus: Morata +0
+
 
 NEMČIJA : MADŽARSKA
-    Najboljša napoved je: 
-    Dejanski rezultat:
+    Najboljša napoved je: Nemčija 1:0 Madžarska. Pričakovane točke = 3.43
+    Dejanski rezultat: 2:2, Točke = 0
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Nemčija +0
+    Prvi strelec bonus: Gnabry +0
 
 
 PORTUGALSKA : FRANCIJA
-    Najboljša napoved je: 
-    Dejanski rezultat:
+    Najboljša napoved je: Portugalska 0:1 Francija. Pričakovane točke = 2.40
+    Dejanski rezultat: 2:2, Točke = 0
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Francija +0
+    Prvi strelec bonus: Mbappe +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Pričakovane točke: 
-Dobljene točke: 
-Bonusi za prve ekipe:
-Bonusi za strelce:
+Pričakovane točke: 37,15
+Dobljene točke: 44
+Bonusi za prve ekipe: 9
+Bonusi za strelce: 6
 
-Vse točke:
+Vse točke: 59
