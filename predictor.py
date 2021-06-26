@@ -7,40 +7,45 @@
 
 # Tabela kvot
 kvote = {
-    "1:0": 9,
-    "2:0": 12,
-    "2:1": 10,
-    "3:0": 23,
-    "3:1": 19,
-    "3:2": 29,
+    "1:0": 6,
+    "2:0": 7,
+    "2:1": 9.5,
+    "3:0": 12,
+    "3:1": 17,
+    "3:2": 41,
 
-    "0:0": 12,
-    "1:1": 7.5,
-    "2:2": 17,
-    "3:3": 51,
+    "0:0": 8.5,
+    "1:1": 8,
+    "2:2": 23,
+    "3:3": 81,
 
-    "0:1": 11,
-    "0:2": 17,
-    "1:2": 12,
-    "0:3": 34,
-    "1:3": 26,
-    "2:3": 34,
+    "0:1": 15,
+    "0:2": 34,
+    "1:2": 23,
+    "0:3": 81,
+    "1:3": 51,
+    "2:3": 67,
 }
 
 
 # Popularni rezulati, ki ne prinašajo dodatnih dveh točk
 popularni_rezultati = [
     "2:0",
-    "2:1",
-    "1:1",
-    "1:0"
+    "3:0",
+    "3:1",
+    ""
 ]
 
 
 # Prva in druga ekipa (pazi vrstni red glede na kvote)
-ekipe = ["Hrvaška", "Škotska"]
+ekipe = ["Italija", "Avstrija"]
 
 
+# Kvote da katerakoli ekipa zmaga po podaljških
+kvote_na_podaljske = [
+    9.5,
+    23
+]
 
 ############################################################################################################################################################
 
@@ -131,7 +136,61 @@ def tocke(rezultat, napoved, popularni):
 
     return score
 
-simulacija(verjetnosti(kvote), popularni_rezultati, ekipe)
+
+# Za izločilne boje se v Predictorju šteje 120 min, na bet365 pa so kvote za 90 min zato ročno spremenimo
+def popravi_verjetnosti(verjetnosti, kvote_na_podaljske):
+    if len(kvote_na_podaljske) == 0:
+        return verjetnosti
+    else:
+
+        vsote_remijev = verjetnosti["0:0"] + verjetnosti["1:1"] + verjetnosti["2:2"]
+
+        # če vemo, da je bil remi, verjetnost posameznega rezulatata
+        dist_remijev = {
+            "0:0": verjetnosti["0:0"] / vsote_remijev, 
+            "1:1": verjetnosti["1:1"] / vsote_remijev, 
+            "2:2": verjetnosti["2:2"] / vsote_remijev
+        }
+
+        # kaj se lahko zgodi
+        slovar_moznih_razpletov = {
+            "0:0": ["0:1", "1:0"],
+            "1:1": ["1:2","2:1"],
+            "2:2": ["2:3", "3:2"]          
+        }
+
+        for rezultat in slovar_moznih_razpletov:
+            # Zmaga 1. po podaljških
+            kvota1 = kvote_na_podaljske[0]
+            kvota1 = 1.10 * kvota1
+            ver1 = 1 / kvota1 # verjetnost
+
+            sedanja1 = verjetnosti[slovar_moznih_razpletov[rezultat][0]]
+            dodano1 = ver1 * dist_remijev[rezultat]
+
+            verjetnosti[slovar_moznih_razpletov[rezultat][0]] = sedanja1 + dodano1
+
+            # Zmaga 2. po podaljških
+            kvota2 = kvote_na_podaljske[1]
+            kvota2 = 1.10 * kvota2
+            ver2 = 1 / kvota2 # verjetnost
+
+            sedanja2 = verjetnosti[slovar_moznih_razpletov[rezultat][1]]
+            dodano2 = ver2 * dist_remijev[rezultat]
+
+            verjetnosti[slovar_moznih_razpletov[rezultat][1]] = sedanja2 + dodano2
+
+            verjetnosti[rezultat] = verjetnosti[rezultat] - dodano1 - dodano2
+
+        return verjetnosti
+
+            
+
+
+
+
+
+simulacija(popravi_verjetnosti(verjetnosti(kvote), kvote_na_podaljske), popularni_rezultati, ekipe)
 
 
 ### Prazne kvote ###
@@ -157,3 +216,4 @@ kvoteprazne = {
     "3:2": 0,
     "3:3": 0,
 }
+
