@@ -1,34 +1,34 @@
 WALES : DANSKA
     Najboljša napoved je: Wales 0:1 Danska. Pričakovane točke = 2.95
-    Dejanski rezultat:
+    Dejanski rezultat: 0:4, Točke = 4
 
-    Prva ekipa bonus: Danska
-    Prvi strelec bonus: Dolberg
+    Prva ekipa bonus: Danska +1
+    Prvi strelec bonus: Dolberg +2
 
 
 ITALIJA : AVSTRIJA
-    Najboljša napoved je: Italija 1:0 Avstrija. Pričakovane točke = 3.19
-    Dejanski rezultat: 
+    Najboljša napoved je: Italija 1:0 Avstrija. Pričakovane točke = 3.19 * 2 = 6.38
+    Dejanski rezultat: 2:1, Točke = 4 * 2 = 8
 
-    Prva ekipa bonus: Italija
-    Prvi strelec bonus: Immobile
+    Prva ekipa bonus: Italija +1 * 2 = +2
+    Prvi strelec bonus: Immobile +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 NIZOZEMSKA : ČEŠKA
-    Najboljša napoved je: 
+    Najboljša napoved je: Nizozemska 1:0 Češka. Pričakovane točke = 3.03
     Dejanski rezultat:
 
-    Prva ekipa bonus:
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Nizozemska
+    Prvi strelec bonus: Depay
 
 
 BELGIJA : PORTUGALSKA
-    Najboljša napoved je: 
+    Najboljša napoved je: Belgija 1:0 Portugalska. Pričakovane točke = 2.5
     Dejanski rezultat: 
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Belgija
+    Prvi strelec bonus: Lukaku
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
