@@ -17,35 +17,35 @@ ITALIJA : AVSTRIJA
 
 NIZOZEMSKA : ČEŠKA
     Najboljša napoved je: Nizozemska 1:0 Češka. Pričakovane točke = 3.03
-    Dejanski rezultat:
+    Dejanski rezultat: 0:2, Točke = 0
 
-    Prva ekipa bonus: Nizozemska
-    Prvi strelec bonus: Depay
+    Prva ekipa bonus: Nizozemska +0 
+    Prvi strelec bonus: Depay +0
 
 
 BELGIJA : PORTUGALSKA
     Najboljša napoved je: Belgija 1:0 Portugalska. Pričakovane točke = 2.5
-    Dejanski rezultat: 
+    Dejanski rezultat: 1:0, Točke = 8
 
-    Prva ekipa bonus: Belgija
-    Prvi strelec bonus: Lukaku
+    Prva ekipa bonus: Belgija +1
+    Prvi strelec bonus: Lukaku +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 HRVAŠKA : ŠPANIJA
-    Najboljša napoved je: 
+    Najboljša napoved je: Hrvaška 0:1 Španija. Pričakovane točke = 2.84
     Dejanski rezultat:
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Španija
+    Prvi strelec bonus: Morata
 
 
 FRANCIJA : ŠVICA
-    Najboljša napoved je: 
+    Najboljša napoved je: Francija 1:0 Švica. Pričakovane točke = 3.10
     Dejanski rezultat:
 
-    Prva ekipa bonus:
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Francija
+    Prvi strelec bonus: Mbappe
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
