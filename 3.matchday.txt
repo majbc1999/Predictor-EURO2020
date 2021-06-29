@@ -99,7 +99,7 @@ PORTUGALSKA : FRANCIJA
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Pričakovane točke: 37,15
+Pričakovane točke: 37.15
 Dobljene točke: 44
 Bonusi za prve ekipe: 9
 Bonusi za strelce: 6
