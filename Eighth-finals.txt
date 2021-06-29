@@ -34,41 +34,41 @@ BELGIJA : PORTUGALSKA
 
 HRVAŠKA : ŠPANIJA
     Najboljša napoved je: Hrvaška 0:1 Španija. Pričakovane točke = 2.84
-    Dejanski rezultat:
+    Dejanski rezultat: 3:5, Točke = 3
 
-    Prva ekipa bonus: Španija
-    Prvi strelec bonus: Morata
+    Prva ekipa bonus: Španija +0
+    Prvi strelec bonus: Morata +0
 
 
 FRANCIJA : ŠVICA
     Najboljša napoved je: Francija 1:0 Švica. Pričakovane točke = 3.10
-    Dejanski rezultat:
+    Dejanski rezultat: 3:3, Točke = 0
 
-    Prva ekipa bonus: Francija
-    Prvi strelec bonus: Mbappe
+    Prva ekipa bonus: Francija +0
+    Prvi strelec bonus: Mbappe +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 ANGLIJA : NEMČIJA
-    Najboljša napoved je: 
+    Najboljša napoved je: Anglija 0:1 Nemčija. Pričakovane točke = 2.33 
     Dejanski rezultat:
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus:
+    Prva ekipa bonus: Anglija
+    Prvi strelec bonus: Kane
 
 
 ŠVEDSKA : UKRAJINA
-    Najboljša napoved je:
+    Najboljša napoved je: Švedska 1:0 Ukrajina. Pričakovane točke = 2.36
     Dejanski rezultat:
 
-    Prva ekipa bonus:
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Švedska
+    Prvi strelec bonus: Isak
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Pričakovane točke: 
-Dobljene točke: 
-Bonusi za prve ekipe:
-Bonusi za strelce:
+Pričakovane točke: 25.49
+Dobljene točke: 23 (brez zadnjih dveh tekem)
+Bonusi za prve ekipe: 4 (brez zadnjih dveh tekem)
+Bonusi za strelce: 2 (brez zadnjih dveh tekem)
 
-Vse točke:
+Vse točke: 29 (brez zadnjih dveh tekem)
