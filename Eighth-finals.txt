@@ -51,24 +51,24 @@ FRANCIJA : ŠVICA
 
 ANGLIJA : NEMČIJA
     Najboljša napoved je: Anglija 0:1 Nemčija. Pričakovane točke = 2.33 
-    Dejanski rezultat:
+    Dejanski rezultat: 2:0, Točke = 0
 
-    Prva ekipa bonus: Anglija
-    Prvi strelec bonus: Kane
+    Prva ekipa bonus: Anglija +1
+    Prvi strelec bonus: Kane +0
 
 
 ŠVEDSKA : UKRAJINA
     Najboljša napoved je: Švedska 1:0 Ukrajina. Pričakovane točke = 2.36
-    Dejanski rezultat:
+    Dejanski rezultat: 1:2, Točke = 1
 
-    Prva ekipa bonus: Švedska
-    Prvi strelec bonus: Isak
+    Prva ekipa bonus: Švedska +0
+    Prvi strelec bonus: Isak +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 Pričakovane točke: 25.49
-Dobljene točke: 23 (brez zadnjih dveh tekem)
-Bonusi za prve ekipe: 4 (brez zadnjih dveh tekem)
-Bonusi za strelce: 2 (brez zadnjih dveh tekem)
+Dobljene točke: 24 
+Bonusi za prve ekipe: 5
+Bonusi za strelce: 2 
 
-Vse točke: 29 (brez zadnjih dveh tekem)
+Vse točke: 31 
