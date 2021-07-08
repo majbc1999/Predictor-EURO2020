@@ -1,0 +1,23 @@
+ITALIJA : ŠPANIJA
+    Najboljša napoved je: Italija 1:0 Španija. Pričakovane točke = 2.58
+    Dejanski rezultat: 1:1, Točke = 1
+
+    Prva ekipa bonus: Italija +1
+    Prvi strelec bonus: Immobile +0
+
+
+ANGLIJA : DANSKA
+    Najboljša napoved je: Anglija 1:0 Danska. Pričakovane točke = 3.05 * 2 = 6.10
+    Dejanski rezultat: 2:1, Točke = 4 * 2 = 8
+
+    Prva ekipa bonus: Anglija +0
+    Prvi strelec bonus: Kane +0
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Pričakovane točke: 6.68
+Dobljene točke: 9
+Bonusi za prve ekipe: 1
+Bonusi za strelce: 0
+
+Vse točke: 10

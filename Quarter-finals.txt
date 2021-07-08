@@ -1,40 +1,40 @@
 ŠVICA : ŠPANIJA
     Najboljša napoved je: Švica 0:1 Španija. Pričakovane točke = 2.96
-    Dejanski rezultat:
+    Dejanski rezultat: 1:1, Točke = 1
 
-    Prva ekipa bonus: Španija
-    Prvi strelec bonus: Morata
+    Prva ekipa bonus: Španija +1
+    Prvi strelec bonus: Morata +0
 
 
 BELGIJA : ITALIJA
-    Najboljša napoved je: Belgija 0:1 Italija. Pričakovane točke = 2.74
-    Dejanski rezultat: 
+    Najboljša napoved je: Belgija 0:1 Italija. Pričakovane točke = 2.65
+    Dejanski rezultat: 1:2, Točke = 4
 
-    Prva ekipa bonus: Italija
-    Prvi strelec bonus: Lukaku
+    Prva ekipa bonus: Italija +1
+    Prvi strelec bonus: Immobile +0
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
 ČEŠKA : DANSKA
-    Najboljša napoved je: Češka 0:1 Danska. Pričakovane točke = 2.81
-    Dejanski rezultat:
+    Najboljša napoved je: Češka 0:1 Danska. Pričakovane točke = 2.80
+    Dejanski rezultat: 1:2, Točke = 4
 
-    Prva ekipa bonus: Danska
-    Prvi strelec bonus: Dolberg
+    Prva ekipa bonus: Danska +1 
+    Prvi strelec bonus: Dolberg +0
 
 
 UKRAJINA : ANGLIJA
     Najboljša napoved je: Ukrajina 0:1 Anglija. Pričakovane točke = 3.34 * 2 = 6.68
-    Dejanski rezultat:
+    Dejanski rezultat: 0:4, Točke = 4 * 2 = 8
 
-    Prva ekipa bonus: Anglija
-    Prvi strelec bonus: Kane
+    Prva ekipa bonus: Anglija +2
+    Prvi strelec bonus: Kane +4
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Pričakovane točke: 
-Dobljene točke: 
-Bonusi za prve ekipe:
-Bonusi za strelce: 
+Pričakovane točke: 15,09
+Dobljene točke: 17
+Bonusi za prve ekipe: 5
+Bonusi za strelce: 4
 
-Vse točke: 
+Vse točke: 26
