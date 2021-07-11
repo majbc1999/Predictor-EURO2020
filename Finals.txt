@@ -1,13 +1,13 @@
 ITALIJA : ANGLIJA
-    Najboljša napoved je: 
+    Najboljša napoved je: Italija 0:1 Anglija. Pričakovane točke = 2.68 * 2 = 5.36
     Dejanski rezultat: 
 
-    Prva ekipa bonus: 
-    Prvi strelec bonus: 
+    Prva ekipa bonus: Anglija
+    Prvi strelec bonus: Kane
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Pričakovane točke: 
+Pričakovane točke: 5.36 
 Dobljene točke:
 Bonusi za prve ekipe: 
 Bonusi za strelce: 
